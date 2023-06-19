@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>FileDialog/CustomFileDialog.qml</file>
+    </qresource>
+</RCC>
